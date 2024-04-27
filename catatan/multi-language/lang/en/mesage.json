@@ -1,0 +1,10 @@
+{
+    "users": {
+        "already_exists": "user with this username already exists"
+    },
+    "orders": {
+        "products": {
+            "quantity": "can't order this product in your zone"
+        }
+    }
+}
